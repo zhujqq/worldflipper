@@ -1,3 +1,5 @@
-DOMAIN-KEYWORD,worldflipper,PROXY
-DOMAIN-KEYWORD,cygames,PROXY
-DOMAIN-KEYWORD,cloudflare,PROXY
+# > 弹射世界
+DOMAIN,worldflipper-reproduce-log.s3.ap-northeast-1.amazonaws.com,PROXY
+DOMAIN-SUFFIX,worldflipper.jp,PROXY
+DOMAIN-SUFFIX,cygames.jp,PROXY
+DOMAIN,cp.cloudflare.com,PROXY
