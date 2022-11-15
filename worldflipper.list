@@ -3,3 +3,4 @@ DOMAIN,worldflipper-reproduce-log.s3.ap-northeast-1.amazonaws.com,PROXY
 DOMAIN-SUFFIX,worldflipper.jp,PROXY
 DOMAIN-SUFFIX,cygames.jp,PROXY
 DOMAIN,cp.cloudflare.com,PROXY
+DOMAIN-KEYWORD,worldflipper,PROXY
